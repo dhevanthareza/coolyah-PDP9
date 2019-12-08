@@ -74,7 +74,6 @@ def soal4():
     print("")
   print('\n')
 if __name__ == "__main__" :
-  hum = 1
   soal1()
   soal2()
   soal3()
