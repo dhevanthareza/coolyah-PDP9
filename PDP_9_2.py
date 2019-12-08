@@ -1,3 +1,8 @@
+"""
+NAMA        : DHEVAN MUHAMAD ANTHAREZA
+NIM         : A11.2019.12293
+KELOMPOK    : A11.4118
+"""
 from PDP_9_1 import matrikA,matrikB
 matrik = [
   [2, 4, 7, 7, 1],

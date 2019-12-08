@@ -1,3 +1,8 @@
+"""
+NAMA        : DHEVAN MUHAMAD ANTHAREZA
+NIM         : A11.2019.12293
+KELOMPOK    : A11.4118
+"""
 import os, sys
 numbers = [i for i in range(1,101)]
 def soal1():

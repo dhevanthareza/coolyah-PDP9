@@ -1,3 +1,8 @@
+"""
+NAMA        : DHEVAN MUHAMAD ANTHAREZA
+NIM         : A11.2019.12293
+KELOMPOK    : A11.4118
+"""
 import os,sys
 matrikA = [
   [5, 4, 6, 5, 6],
