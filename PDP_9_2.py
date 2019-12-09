@@ -3,7 +3,9 @@ NAMA        : DHEVAN MUHAMAD ANTHAREZA
 NIM         : A11.2019.12293
 KELOMPOK    : A11.4118
 """
-from PDP_9_1 import matrikA,matrikB
+import PDP_9_1
+matrikA = PDP_9_1.matrikA
+matrikB = PDP_9_1.matrikB
 matrik = [
   [2, 4, 7, 7, 1],
   [8, 9, 1, 8, 2],
